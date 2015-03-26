@@ -20,6 +20,10 @@ A repository for links to blog posts, resources, etc. that I wish to highlight a
 - [The Ruby 'Struct' Class](http://stephaniehoh.github.io/blog/2013/12/28/the-ruby-struct-class/)
 - [Avoid the Kingdom of Nouns With Procs](http://naildrivin5.com/blog/2012/01/30/avoid-kingdom-of-nouns-with-procs.html)
 
+### RSpec
+
+- [Better Specs](http://www.betterspecs.org)
+
 ### Object-Oriented Programming
 
 - [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)

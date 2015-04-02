@@ -27,6 +27,7 @@ A repository for links to blog posts, resources, etc. that I wish to highlight a
 ### RSpec
 
 - [Better Specs](http://www.betterspecs.org)
+- [Use Factory Girl's build_stubbed for a Faster Test Suite](https://robots.thoughtbot.com/use-factory-girls-build-stubbed-for-a-faster-test)
 
 ### Object-Oriented Programming
 

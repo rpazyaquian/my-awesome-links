@@ -12,7 +12,11 @@ A repository for links to blog posts, resources, etc. that I wish to highlight a
 - [Objects on Rails](http://objectsonrails.com/)
 - [Crazy, Heretical, and Awesome: The Way I Write Rails Apps](http://jamesgolick.com/2010/3/14/crazy-heretical-and-awesome-the-way-i-write-rails-apps.html)
 - [Single Responsibility Principle on Rails Explained](http://solnic.eu/2012/07/09/single-responsibility-principle-on-rails-explained.html)
+- [Single Responsibility Principle and Rails](http://naildrivin5.com/blog/2012/06/10/single-responsibility-principle-and-rails.html)
 - [ActiveRecord (and Rails) Considered Harmful](http://blog.steveklabnik.com/posts/2011-12-30-active-record-considered-harmful)
+- [DDD For Rails Developers](http://victorsavkin.com/ddd)
+- [Rails Does Not Define Your Application Architecture](http://naildrivin5.com/blog/2014/05/27/rails-does-not-define-your-application-architecture.html)
+- [Your Objects, the Unix Way](http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/)
 
 ### Ruby
 
